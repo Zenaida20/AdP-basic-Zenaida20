@@ -1,0 +1,8 @@
+# Array entre los valores de 50 y 5000 
+    valores = np.linspace(0, 5000, 50) 
+# Calcular media, mediana, desv, min y max
+    media = np.mean(valores) 
+    mediana = np.median(valores) 
+    desviacion = np.std(valores) 
+    maximo = np.max(valores) 
+    minimo = np.min(valores)
