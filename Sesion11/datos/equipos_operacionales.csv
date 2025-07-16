@@ -1,0 +1,26 @@
+equipo_id,tipo_equipo,campo,pozo,ubicacion,fecha_instalacion,estado_operacional,horas_operacion,eficiencia_actual,ultimo_mantenimiento,proximo_mantenimiento,presion_operacion,temperatura_operacion,vibracion_actual,consumo_energia,rendimiento,prioridad_mantenimiento,responsable,comentarios
+BOM-001,Bomba Electrosumergible,Campo Libertad,LIB-001,Cabeza,2020-03-15,Operativo,8760,0.85,2023-12-15,2024-06-15,1250,82,0.12,45.2,0.92,Media,OP-101,Operación normal
+BOM-002,Bomba Electrosumergible,Campo Libertad,LIB-002,Cabeza,2020-05-20,Operativo,8760,0.89,2023-11-20,2024-05-20,1320,85,0.08,52.1,0.94,Media,OP-102,Operación normal
+BOM-003,Bomba de Inyección,Campo Libertad,LIB-003,Cabeza,2021-02-10,Suspendido,0,0.00,2023-10-10,2024-04-10,1850,45,0.00,0.0,0.00,Alta,OP-103,En mantenimiento
+BOM-004,Bomba Electrosumergible,Campo Esperanza,ESP-001,Cabeza,2019-08-12,Operativo,8760,0.92,2023-09-12,2024-03-12,1480,88,0.06,68.5,0.96,Baja,OP-201,Operación normal
+BOM-005,Bomba de Evaluación,Campo Esperanza,ESP-002,Cabeza,2022-11-05,Suspendido,0,0.00,2023-08-05,2024-02-05,1350,82,0.00,0.0,0.00,Media,OP-202,En evaluación
+BOM-006,Bomba Electrosumergible,Campo Rubiales,RUB-001,Cabeza,2018-06-18,Operativo,8760,0.78,2023-07-18,2024-01-18,1100,75,0.18,89.3,0.88,Alta,OP-301,Requiere atención
+BOM-007,Bomba Electrosumergible,Campo Rubiales,RUB-002,Cabeza,2018-09-25,Operativo,8760,0.81,2023-08-25,2024-02-25,1150,78,0.14,76.8,0.90,Media,OP-302,Operación normal
+BOM-008,Bomba Electrosumergible,Campo Castilla,CAS-001,Cabeza,2019-12-03,Operativo,8760,0.84,2023-10-03,2024-04-03,1200,80,0.10,58.7,0.93,Media,OP-401,Operación normal
+BOM-009,Bomba Electrosumergible,Campo Castilla,CAS-002,Cabeza,2020-01-15,Operativo,8760,0.86,2023-11-15,2024-05-15,1250,83,0.09,62.4,0.94,Media,OP-402,Operación normal
+SEP-001,Separador Gas-Petróleo,Campo Libertad,LIB-001,Planta,2019-04-10,Operativo,8760,0.88,2023-12-10,2024-06-10,150,65,0.05,12.3,0.95,Baja,OP-101,Operación normal
+SEP-002,Separador Gas-Petróleo,Campo Libertad,LIB-002,Planta,2019-06-15,Operativo,8760,0.90,2023-11-15,2024-05-15,160,68,0.04,14.1,0.96,Baja,OP-102,Operación normal
+SEP-003,Separador Gas-Petróleo,Campo Esperanza,ESP-001,Planta,2018-09-20,Operativo,8760,0.93,2023-10-20,2024-04-20,180,72,0.03,18.5,0.97,Baja,OP-201,Operación normal
+SEP-004,Separador Gas-Petróleo,Campo Rubiales,RUB-001,Planta,2017-12-05,Operativo,8760,0.85,2023-09-05,2024-03-05,120,58,0.08,25.2,0.92,Media,OP-301,Requiere monitoreo
+SEP-005,Separador Gas-Petróleo,Campo Rubiales,RUB-002,Planta,2018-03-12,Operativo,8760,0.87,2023-10-12,2024-04-12,130,60,0.07,22.8,0.93,Media,OP-302,Operación normal
+SEP-006,Separador Gas-Petróleo,Campo Castilla,CAS-001,Planta,2019-01-08,Operativo,8760,0.89,2023-11-08,2024-05-08,140,62,0.06,16.7,0.94,Baja,OP-401,Operación normal
+SEP-007,Separador Gas-Petróleo,Campo Castilla,CAS-002,Planta,2019-02-20,Operativo,8760,0.91,2023-12-20,2024-06-20,145,64,0.05,17.9,0.95,Baja,OP-402,Operación normal
+COMP-001,Compresor de Gas,Campo Libertad,LIB-001,Planta,2020-08-05,Operativo,8760,0.82,2023-11-05,2024-05-05,200,75,0.15,35.6,0.88,Media,OP-101,Operación normal
+COMP-002,Compresor de Gas,Campo Esperanza,ESP-001,Planta,2019-11-12,Operativo,8760,0.85,2023-10-12,2024-04-12,220,78,0.12,42.1,0.90,Media,OP-201,Operación normal
+COMP-003,Compresor de Gas,Campo Rubiales,RUB-001,Planta,2018-05-18,Operativo,8760,0.78,2023-08-18,2024-02-18,180,70,0.20,55.3,0.85,Alta,OP-301,Requiere mantenimiento
+COMP-004,Compresor de Gas,Campo Castilla,CAS-001,Planta,2019-07-25,Operativo,8760,0.83,2023-12-25,2024-06-25,190,72,0.14,38.7,0.89,Media,OP-401,Operación normal
+TANQ-001,Tanque de Almacenamiento,Campo Libertad,LIB-001,Planta,2019-03-20,Operativo,8760,0.95,2023-12-20,2024-06-20,5,25,0.02,2.1,0.98,Baja,OP-101,Operación normal
+TANQ-002,Tanque de Almacenamiento,Campo Libertad,LIB-002,Planta,2019-05-25,Operativo,8760,0.94,2023-11-25,2024-05-25,5,26,0.02,2.3,0.98,Baja,OP-102,Operación normal
+TANQ-003,Tanque de Almacenamiento,Campo Esperanza,ESP-001,Planta,2018-10-30,Operativo,8760,0.96,2023-11-30,2024-05-30,5,24,0.01,2.8,0.99,Baja,OP-201,Operación normal
+TANQ-004,Tanque de Almacenamiento,Campo Rubiales,RUB-001,Planta,2017-12-15,Operativo,8760,0.92,2023-09-15,2024-03-15,5,28,0.03,3.5,0.97,Media,OP-301,Operación normal
+TANQ-005,Tanque de Almacenamiento,Campo Castilla,CAS-001,Planta,2019-01-10,Operativo,8760,0.93,2023-12-10,2024-06-10,5,25,0.02,2.9,0.98,Baja,OP-401,Operación normal 

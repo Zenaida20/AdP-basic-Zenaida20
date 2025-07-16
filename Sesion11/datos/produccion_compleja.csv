@@ -1,0 +1,28 @@
+campo,pozo,fecha,produccion_petroleo,produccion_agua,produccion_gas,inyeccion_agua,inyeccion_gas,horas_operacion,eficiencia_bomba,presion_fondo,presion_cabeza,temperatura_fondo,temperatura_cabeza,ph_agua,conductividad_agua,contenido_solidos,api_gravity,viscosidad,presion_vapor,estado_equipos,comentarios
+Campo Libertad,LIB-001,2024-01-01,180,32.4,21600,0,0,22.5,0.85,2800,1250,95,82,7.2,1200,45,28.5,12.3,8.5,Optimo,Operación normal
+Campo Libertad,LIB-001,2024-01-02,178,32.0,21360,0,0,23.0,0.87,2795,1248,94,83,7.1,1180,43,28.5,12.1,8.3,Optimo,Operación normal
+Campo Libertad,LIB-001,2024-01-03,182,32.8,21840,0,0,22.8,0.86,2805,1252,96,81,7.3,1220,47,28.5,12.5,8.7,Optimo,Operación normal
+Campo Libertad,LIB-002,2024-01-01,210,26.3,19950,0,0,23.5,0.89,2950,1320,98,85,7.0,1100,38,29.2,11.8,7.8,Optimo,Operación normal
+Campo Libertad,LIB-002,2024-01-02,208,26.6,19760,0,0,23.2,0.88,2945,1315,97,84,7.1,1120,40,29.2,12.0,8.0,Optimo,Operación normal
+Campo Libertad,LIB-002,2024-01-03,212,25.9,20140,0,0,23.8,0.90,2955,1325,99,86,6.9,1080,36,29.2,11.6,7.6,Optimo,Operación normal
+Campo Libertad,LIB-003,2024-01-01,0,0,0,250,0,0,0.00,0,1850,0,45,7.5,800,25,0.0,0.0,0.0,Suspendido,Pozo en mantenimiento
+Campo Libertad,LIB-003,2024-01-02,0,0,0,248,0,0,0.00,0,1860,0,44,7.4,820,26,0.0,0.0,0.0,Suspendido,Pozo en mantenimiento
+Campo Libertad,LIB-003,2024-01-03,0,0,0,252,0,0,0.00,0,1845,0,46,7.6,780,24,0.0,0.0,0.0,Suspendido,Pozo en mantenimiento
+Campo Esperanza,ESP-001,2024-01-01,310,26.4,26350,0,0,24.0,0.92,3200,1480,102,88,6.8,950,32,30.1,10.5,6.2,Optimo,Operación normal
+Campo Esperanza,ESP-001,2024-01-02,308,27.1,26180,0,0,23.8,0.91,3195,1475,101,89,6.9,970,34,30.1,10.7,6.4,Optimo,Operación normal
+Campo Esperanza,ESP-001,2024-01-03,312,25.6,26520,0,0,24.2,0.93,3205,1485,103,87,6.7,930,30,30.1,10.3,6.0,Optimo,Operación normal
+Campo Esperanza,ESP-002,2024-01-01,0,0,0,0,0,0,0.00,0,1350,0,82,7.8,600,20,0.0,0.0,0.0,Suspendido,Pozo de evaluación
+Campo Esperanza,ESP-002,2024-01-02,0,0,0,0,0,0,0.00,0,1348,0,81,7.7,610,21,0.0,0.0,0.0,Suspendido,Pozo de evaluación
+Campo Esperanza,ESP-002,2024-01-03,0,0,0,0,0,0,0.00,0,1352,0,83,7.9,590,19,0.0,0.0,0.0,Suspendido,Pozo de evaluación
+Campo Rubiales,RUB-001,2024-01-01,450,113.9,67500,0,0,22.0,0.78,2800,1100,92,75,6.5,1800,65,25.8,18.2,12.5,Optimo,Operación normal
+Campo Rubiales,RUB-001,2024-01-02,448,115.6,67200,0,0,21.8,0.77,2795,1095,91,76,6.6,1820,67,25.8,18.5,12.8,Optimo,Operación normal
+Campo Rubiales,RUB-001,2024-01-03,452,112.2,67800,0,0,22.2,0.79,2805,1105,93,74,6.4,1780,63,25.8,17.9,12.2,Optimo,Operación normal
+Campo Rubiales,RUB-002,2024-01-01,380,84.0,49400,0,0,22.5,0.81,2900,1150,94,78,6.7,1600,55,26.5,16.8,11.2,Optimo,Operación normal
+Campo Rubiales,RUB-002,2024-01-02,378,85.1,49140,0,0,22.3,0.80,2895,1145,93,79,6.8,1620,57,26.5,17.1,11.5,Optimo,Operación normal
+Campo Rubiales,RUB-002,2024-01-03,382,82.9,49660,0,0,22.7,0.82,2905,1155,95,77,6.6,1580,53,26.5,16.5,10.9,Optimo,Operación normal
+Campo Castilla,CAS-001,2024-01-01,280,51.8,30800,0,0,23.0,0.84,3000,1200,96,80,7.1,1400,48,27.8,14.5,9.8,Optimo,Operación normal
+Campo Castilla,CAS-001,2024-01-02,278,52.6,30660,0,0,22.8,0.83,2995,1195,95,81,7.2,1420,50,27.8,14.8,10.1,Optimo,Operación normal
+Campo Castilla,CAS-001,2024-01-03,282,51.0,30940,0,0,23.2,0.85,3005,1205,97,79,7.0,1380,46,27.8,14.2,9.5,Optimo,Operación normal
+Campo Castilla,CAS-002,2024-01-01,320,51.8,32000,0,0,23.5,0.86,3100,1250,98,83,7.0,1350,45,28.2,13.8,9.2,Optimo,Operación normal
+Campo Castilla,CAS-002,2024-01-02,318,52.8,31860,0,0,23.3,0.85,3095,1245,97,84,7.1,1370,47,28.2,14.1,9.5,Optimo,Operación normal
+Campo Castilla,CAS-002,2024-01-03,322,50.8,32140,0,0,23.7,0.87,3105,1255,99,82,6.9,1330,43,28.2,13.5,8.9,Optimo,Operación normal 
